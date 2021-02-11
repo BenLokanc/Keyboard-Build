@@ -1,7 +1,6 @@
 # Keyboard-Build
 
-## Author  
-Benjamin Lokanc
+Author: Benjamin Lokanc
 
 ## About 
 My most recent project is a custom built TKL mechanical keyboard, the PCB was designed by CFTKB and the kit was ordered through them. This project served the purpose to enhance my through hole soldering skills and understand how a keyboard functions. 
@@ -34,22 +33,22 @@ My most recent project is a custom built TKL mechanical keyboard, the PCB was de
 - drop + mito dcp pegaso custom keycap set
 
 ## Build-Process  
-This PCB is not like most other mechanical keyboard pcb's on the market. Most pcb's on the market have surface mount soldered compnents to reduce the size of the board. However, this pcb is completely through-hole soldered. 
+This pcb is not like most other mechanical keyboard pcb's on the market. Most pcb's on the market have surface mount soldered compnents to reduce the size of the board. However, this pcb is completely through-hole soldered. 
 
 The first step of this build was to solder all the electrical components on to the board, this part was quite tedious as there were several components.
 
 ![](keeb2.jpg)
 
-With all electrical components soldered on the pcb, I was able to plug the keyboard into my desktop and test the PCB by shorting the switch connections. This was tested in VIA.
+With all electrical components soldered on the pcb, I was able to connect the keyboard to my desktop and test the PCB by shorting the switch connections. This was tested in VIA.
 
 ![](via-test.png)
 
-Once I tested each switch and found that they all worked, I got to work on the lubrication of my switches and stabalizers to have my typing experience feel more rich and smooth. This process was the longest and took me around 8 hours as it was my first time lubricating switches and I anted to make sure they werent over or underlubed. This quality assurance was to make sure each keystroke was consistent. After lubricating my stabalizers i secured them to my pcb with the included 4mm screews. 
+Once I tested each switch and found that they all worked, I got to work on the lubrication of my switches and stabalizers to have my typing experience feel more rich and smooth. This process was the longest and took me around 8 hours as it was my first time lubricating switches and I wanted to make sure they weren't over or underlubed. This quality assurance was to make sure each keystroke was consistent. After lubricating my stabalizers I secured them to my pcb with the included 4mm screws. 
 
-The process that put a delay in this build was that I laser cut an acrylic case for my PCB and laser cut a new plate out of POM or delrin for my switches. When these components arrived, I was able to fit my POM plate with the lubed switches and then secure the switches to the PCB by soldering the connections. 
+The process that put a delay in this build was that I laser cut an acrylic case for my pcb and laser cut a new plate out of POM or delrin for my switches. When these components arrived, I was able to fit my POM plate with the lubed switches and then secure the switches to the PCB by soldering the connections. 
 
 ![](keeb3.jpg)
 
-After this the build was nearly complete, I assembed the acrylic case and placed my keycaps on my switches. All that  was left to do was plug the keyboard into my desktop and make sure the soldered switches were working properly. With this verified, My custom mechanical keyboard was complete! 
+After this the build was nearly complete, I assembed the acrylic case and placed my keycaps on my switches. All that was left to do was plug the keyboard into my desktop and make sure the soldered switches were working properly. With this verified, My custom mechanical keyboard was complete! 
 
 ![](keeb4.jpg)
