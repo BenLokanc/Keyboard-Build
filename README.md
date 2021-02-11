@@ -33,7 +33,7 @@ This PCB is not like most other mechanical keyboard pcb's on the market. Most pc
 
 The first step of this build was to solder all the electrical components on to the board, this part was quite tedious as there were several components.
 
-![](keeb3.jpg)
+![](keeb2.jpg)
 
 With all electrical components soldered on the pcb, I was able to plug the keyboard into my desktop and test the PCB by shorting the switch connections. This was tested in VIA.
 
