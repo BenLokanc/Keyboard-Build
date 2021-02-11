@@ -37,8 +37,14 @@ The first step of this build was to solder all the electrical components on to t
 
 With all electrical components soldered on the pcb, I was able to plug the keyboard into my desktop and test the PCB by shorting the switch connections. This was tested in VIA.
 
+![](via-test.png)
+
 Once I tested each switch and found that they all worked, I got to work on the lubrication of my switches and stabalizers to have my typing experience feel more rich and smooth. This process was the longest and took me around 8 hours as it was my first time lubricating switches and I anted to make sure they werent over or underlubed. This quality assurance was to make sure each keystroke was consistent. After lubricating my stabalizers i secured them to my pcb with the included 4mm screews. 
 
 The process that put a delay in this build was that I laser cut an acrylic case for my PCB and laser cut a new plate out of POM or delrin for my switches. When these components arrived, I was able to fit my POM plate with the lubed switches and then secure the switches to the PCB by soldering the connections. 
 
+![](keeb3.jpg)
+
 After this the build was nearly complete, I assembed the acrylic case and placed my keycaps on my switches. All that  was left to do was plug the keyboard into my desktop and make sure the soldered switches were working properly. With this verified, My custom mechanical keyboard was complete! 
+
+![](keeb4.jpg)
