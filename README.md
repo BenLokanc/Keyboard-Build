@@ -33,6 +33,8 @@ This PCB is not like most other mechanical keyboard pcb's on the market. Most pc
 
 The first step of this build was to solder all the electrical components on to the board, this part was quite tedious as there were several components.
 
+![](keeb3.png)
+
 With all electrical components soldered on the pcb, I was able to plug the keyboard into my desktop and test the PCB by shorting the switch connections. This was tested in VIA.
 
 Once I tested each switch and found that they all worked, I got to work on the lubrication of my switches and stabalizers to have my typing experience feel more rich and smooth. This process was the longest and took me around 8 hours as it was my first time lubricating switches and I anted to make sure they werent over or underlubed. This quality assurance was to make sure each keystroke was consistent. After lubricating my stabalizers i secured them to my pcb with the included 4mm screews. 
