@@ -1,12 +1,12 @@
 # Keyboard-Build
 
-# Author # 
+## Author  
 Benjamin Lokanc
 
-# About #
+## About 
 My most recent project is a custom built TKL mechanical keyboard, the PCB was designed by CFTKB and the kit was ordered through them. This project served the purpose to enhance my through hole soldering skills and understand how a keyboard functions. 
 
-# Parts List #
+## Parts List 
 - Atmega32A
 - 40-pin IC socket
 - 16 MHz crystal 
@@ -33,7 +33,7 @@ My most recent project is a custom built TKL mechanical keyboard, the PCB was de
 - Krytox 205g0 lubricant
 - drop + mito dcp pegaso custom keycap set
 
-# Build-Process # 
+## Build-Process  
 This PCB is not like most other mechanical keyboard pcb's on the market. Most pcb's on the market have surface mount soldered compnents to reduce the size of the board. However, this pcb is completely through-hole soldered. 
 
 The first step of this build was to solder all the electrical components on to the board, this part was quite tedious as there were several components.
