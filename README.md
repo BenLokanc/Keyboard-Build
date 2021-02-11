@@ -1,4 +1,9 @@
 # Keyboard-Build
+
+# Author # 
+Benjamin Lokanc
+
+# About #
 My most recent project is a custom built TKL mechanical keyboard, the PCB was designed by CFTKB and the kit was ordered through them. This project served the purpose to enhance my through hole soldering skills and understand how a keyboard functions. 
 
 # Parts List #
